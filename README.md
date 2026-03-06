@@ -1,9 +1,6 @@
 # Hey, I'm Austin
 
 I’m pursuing my B.S. in Computer Science. I have a great passion for research and data analysis, along with systems and networks.<br><br>Below are some projects that I have or are currently working on. I enjoy coding in Python and its various data libraries along with C and Java.
-
-
-## LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/austmang) 
 
 ## Languages
