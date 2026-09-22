@@ -1,4 +1,4 @@
-Software Engineer, Teacher, Researcher
+Software Engineer, Teacher & Researcher
 
 [LinkedIn](https://www.linkedin.com/in/austmang/)
 <br>
