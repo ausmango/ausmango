@@ -1,6 +1,5 @@
-#### Software Engineer, Teacher & Researcher
+### Software Engineer, Teacher & Researcher
 
-#### [LinkedIn](https://www.linkedin.com/in/austmang/)
-</br>
+### [LinkedIn](https://www.linkedin.com/in/austmang/)
 
-#### [austinmangold.com](https://austinmangold.com/)
+### [austinmangold.com](https://austinmangold.com/)
